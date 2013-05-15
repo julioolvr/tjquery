@@ -14,6 +14,8 @@
 
         };
 
+        tQuery.length = 0;
+
         return tQuery;
 
     };
